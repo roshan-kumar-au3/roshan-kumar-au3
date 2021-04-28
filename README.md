@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-kumar-au3" alt="roshan-kumar-au3" /> </p>
 
-- 🔭 I’m currently working on **PWA & Web App **
+- 🔭 I’m currently working on ** PWA & Web App **
 
 - 🌱 I’m currently learning **React, Node , MongoDB, Postgres and Express**
 
