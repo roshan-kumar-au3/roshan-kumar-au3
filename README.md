@@ -12,10 +12,3 @@
 - 💬 Ask me about **react, node, express and redux**
 
 - 📫 How to reach me **roshankunaguero09@gmail.com**
-
-- ⚡ Fun fact **Veg over Non-Veg**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roshan-kumar-au3&show_icons=true" alt="roshan-kumar-au3" /> </p>
-
-<p align="center">
-<a href="https://linkedin.com/in/roshan kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roshan kumar" height="20" width="20" /></a>
-</p>
